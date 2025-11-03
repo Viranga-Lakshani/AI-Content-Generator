@@ -1,0 +1,8 @@
+# Copy this to .env and fill in your API key(s).
+# Do NOT commit your real .env to git.
+
+# Example for OpenAI-style provider
+OPENAI_API_KEY=your_openai_api_key_here
+
+# If you use another provider, add another key:
+# ANTHROPIC_API_KEY=your_anthropic_key_here
