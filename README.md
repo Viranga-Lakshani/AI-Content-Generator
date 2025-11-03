@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-This repository is a practical, human-centered AI Content Generator created and maintained by @lakshivi2023-arch. I (lakshivi2023-arch) wrote the code, docs, and templates with clarity and extensibility in mind so anyone can read, use, and adapt it.
+This repository is a practical, human-centered AI Content Generator created and maintained by viranga-Lakshani . I wrote the code, docs, and templates with clarity and extensibility in mind so anyone can read, use, and adapt it.
 
 What this repo gives you
 - A small TypeScript-based CLI and library that wraps an LLM (e.g., OpenAI) to generate content.
